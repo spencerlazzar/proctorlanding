@@ -5,7 +5,7 @@ import NewcastleForcast from './components/NewcastleForcast';
 
 function App() {
   return (
-    <div className="App">
+    <div className='App'>
       <Header />
       <Map />
       <NewcastleForcast />
